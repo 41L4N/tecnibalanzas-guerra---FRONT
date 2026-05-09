@@ -7,25 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/vuejs/art/master/logo.png" alt="Vue Logo" height="75" style="vertical-align: middle;" />
-  </a>
+  <img src="https://raw.githubusercontent.com/vuejs/art/master/logo.png" alt="Vue Logo" height="75" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="75" style="vertical-align: middle;" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="75" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://v3.vitejs.dev/" target="_blank">
-    <img src="https://v3.vitejs.dev/logo.svg" alt="Vite Logo" height="75" style="vertical-align: middle;" />
-  </a>
+  <img src="https://v3.vitejs.dev/logo.svg" alt="Vite Logo" height="75" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://primevue.org/" target="_blank">
-    <img src="https://primefaces.org/cdn/primevue/images/logo.svg" alt="PrimeVue Logo" height="75" style="vertical-align: middle;" />
-  </a>
+  <img src="https://primefaces.org/cdn/primevue/images/logo.svg" alt="PrimeVue Logo" height="75" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pinia.vuejs.org/" target="_blank">
-    <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia Logo" height="75" style="vertical-align: middle;" />
-  </a>
+  <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia Logo" height="75" style="vertical-align: middle;" />
 </p>
 </br>
 
