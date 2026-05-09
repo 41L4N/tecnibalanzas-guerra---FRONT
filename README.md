@@ -1,23 +1,13 @@
 <p align="center">
-	<a href="https://vuejs.org/">
-		<img src="https://raw.githubusercontent.com/vuejs/art/master/logo.png" alt="Vue Logo" height="75" />
-	</a>
+	<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/vuejs/art/master/logo.png" alt="Vue Logo" height="75" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.typescriptlang.org/">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="75" />
-	</a>
+	<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/ypescript-original.svg" alt="TypeScript Logo" height="75" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://vite.dev/">
-		<img src="https://v3.vitejs.dev/logo.svg" alt="Vite Logo" height="75" />
-	</a>
+	<a href="https://vite.dev/"><img src="https://v3.vitejs.dev/logo.svg" alt="Vite Logo" height="75" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://primevue.org/">
-		<img src="https://primefaces.org/cdn/primevue/images/logo.svg" alt="PrimeVue Logo" height="75" />
-	</a>
+	<a href="https://primevue.org/"><img src="https://primefaces.org/cdn/primevue/images/logo.svg" alt="PrimeVue Logo" height="75" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://pinia.vuejs.org/">
-		<img src="https://pinia.vuejs.org/logo.svg" alt="Pinia Logo" height="75" />
-	</a>
+	<a href="https://pinia.vuejs.org/"><img src="https://pinia.vuejs.org/logo.svg" alt="Pinia Logo" height="75" /></a>
 </p>
 
 <p align="center">
