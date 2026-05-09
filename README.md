@@ -20,13 +20,7 @@
 </br>
 
 # Pro Store Kit
-Stack frontend modular empresarial orientada a identidad corporativa y gestión de catálogos complejos.
-
-## 🚀 Descripción del Proyecto
-**Pro Store Kit** es un ecosistema de componentes y vistas diseñado para resolver la complejidad visual y funcional del comercio digital moderno. Se centra en una arquitectura de componentes desacoplados que permite una integración segura con cualquier API, manteniendo una estética limpia y profesional.
-
-## 🎯 Propósito del Sistema
-Este kit ha sido concebido como una base de alto nivel para aplicaciones empresariales que requieren una **identidad corporativa sólida** y una gestión de datos compleja. El objetivo es reducir el tiempo de salida al mercado proporcionando una arquitectura pre-configurada que cumple con los estándares más exigentes de seguridad y usabilidad.
+Es un ecosistema de componentes y vistas concebido como una base de alto nivel para aplicaciones empresariales con **identidad corporativa sólida** y gestión de datos compleja. Su arquitectura de componentes desacoplados permite una integración segura con cualquier API, mantiene una estética limpia y profesional, y reduce el tiempo de salida al mercado con una base preconfigurada que cumple altos estándares de seguridad y usabilidad.
 
 ## 🛠️ Stack Tecnológico
 * **Core:** Vue.js 3 (Composition API).
