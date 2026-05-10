@@ -11,16 +11,18 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Framework-Vue.js%203-success" alt="Framework: Vue.js 3" />
-<img src="https://img.shields.io/badge/Language-TypeScript-3178C6" alt="Language: TypeScript" />
-<img src="https://img.shields.io/badge/Tooling-Vite-646CFF" alt="Tooling: Vite" />
-<img src="https://img.shields.io/badge/UI--Library-PrimeVue-green" alt="UI Library: PrimeVue" />
-<img src="https://img.shields.io/badge/State--Management-Pinia-FFD859" alt="State Management: Pinia" />
+	<img src="https://img.shields.io/badge/Framework-Vue.js%203-success" alt="Framework: Vue.js 3" />
+	<img src="https://img.shields.io/badge/Language-TypeScript-3178C6" alt="Language: TypeScript" />
+	<img src="https://img.shields.io/badge/Tooling-Vite-646CFF" alt="Tooling: Vite" />
+	<img src="https://img.shields.io/badge/UI--Library-PrimeVue-green" alt="UI Library: PrimeVue" />
+	<img src="https://img.shields.io/badge/State--Management-Pinia-FFD859" alt="State Management: Pinia" />
 </p>
-</br>
+
+<p align="center">
+	<strong>FRONTEND</strong>
+</p>
 
 # Pro Store Kit
-Es un ecosistema de componentes y vistas concebido como una base de alto nivel para aplicaciones empresariales con **identidad corporativa sólida** y gestión de datos compleja. Su arquitectura de componentes desacoplados permite una integración segura con cualquier API, mantiene una estética limpia y profesional, y reduce el tiempo de salida al mercado con una base preconfigurada que cumple altos estándares de seguridad y usabilidad.
 
 ## 🛠️ Stack Tecnológico
 * **Core:** Vue.js 3 (Composition API).
