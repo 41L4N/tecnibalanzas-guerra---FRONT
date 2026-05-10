@@ -11,11 +11,15 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Framework-Vue.js%203-success" alt="Framework: Vue.js 3" />
-	<img src="https://img.shields.io/badge/Language-TypeScript-3178C6" alt="Language: TypeScript" />
-	<img src="https://img.shields.io/badge/Tooling-Vite-646CFF" alt="Tooling: Vite" />
-	<img src="https://img.shields.io/badge/UI--Library-PrimeVue-green" alt="UI Library: PrimeVue" />
-	<img src="https://img.shields.io/badge/State--Management-Pinia-FFD859" alt="State Management: Pinia" />
+	<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Framework-Vue.js%203-success" alt="Framework: Vue.js 3" /></a>
+	&nbsp;&nbsp;
+	<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6" alt="Language: TypeScript" /></a>
+	&nbsp;&nbsp;
+	<a href="https://vite.dev/"><img src="https://img.shields.io/badge/Tooling-Vite-646CFF" alt="Tooling: Vite" /></a>
+	&nbsp;&nbsp;
+	<a href="https://primevue.org/"><img src="https://img.shields.io/badge/UI--Library-PrimeVue-green" alt="UI Library: PrimeVue" /></a>
+	&nbsp;&nbsp;
+	<a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/State--Management-Pinia-FFD859" alt="State Management: Pinia" /></a>
 </p>
 
 <p align="center">
