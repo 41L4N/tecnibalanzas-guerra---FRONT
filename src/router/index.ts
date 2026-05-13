@@ -1,8 +1,17 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { crearEnrutador, crearHistorialWeb } from 'vue-router'
+import Error404 from './Error404.vue'
 
-const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
-  routes: [],
-})
+const enrutador = crearEnrutador({
+  historia: crearHistorialWeb(import.meta.env.BASE_URL),
+    rutas: [
+        // Aquí irán tus otras rutas (Inicio, Tienda, etc.)
+            {
+                  path: '/:pathMatch(.*)*',
+                        name: 'NotFound',
+                              component: Error404
+                                  }
+                                    ],
+                                    })
 
-export default router
+                                    export default enrutador
+                                    
