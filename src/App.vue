@@ -1,5 +1,6 @@
 <script setup>
 import { ref, onMounted } from 'vue'
+import { Button } from 'primevue'
 
 const oscuro = ref(localStorage.getItem('tema') === 'oscuro')
 
